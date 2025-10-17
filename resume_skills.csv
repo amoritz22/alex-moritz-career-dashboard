@@ -1,0 +1,19 @@
+skill,category,level_1to5,last_used_year,frequency_per_month
+Python,Language,5,2025,20
+SQL,Language,5,2025,25
+Databricks,Platform,4,2025,12
+Spark / PySpark,Platform,4,2025,10
+AWS S3,AWS,5,2025,20
+AWS Redshift,AWS,4,2025,8
+AWS Lambda,AWS,4,2025,10
+AWS DynamoDB,AWS,3,2025,4
+AWS Glue,AWS,3,2025,4
+AWS EMR,AWS,3,2025,3
+Kafka,Streaming,3,2025,4
+Docker,DevOps,4,2025,12
+GitLab CI/CD,DevOps,4,2025,8
+Power BI,BI,4,2025,6
+Snowflake,Data Warehouse,3,2025,3
+RMF,Governance,5,2025,6
+NIST 800-53,Governance,5,2025,6
+DoD Cloud SRG,Governance,4,2025,3

@@ -1,0 +1,4 @@
+project_name,start_year,description,tools_stack,metrics
+Cloud Data Pipeline Modernization,2024,Containerized ETL to ingest/transform large datasets for analytics.,AWS S3; Lambda; Redshift; Databricks; Spark; Docker; Python; SQL,Reduced manual data prep by 40%
+Predictive Analytics for Medical Readiness (Prototype),2025,Multi-stage pipeline to process unstructured health & operational data for ML feature engineering.,S3; Lambda; Redshift; Databricks; Python,Prepared ML-ready feature sets; accelerated readiness forecasting cycle
+Continuity Risk & Recovery Analytics,2021,SQL-driven reporting and ETL automation to analyze risk/recovery metrics across 70+ sites.,SQL; Power BI; AWS services,50% faster executive reporting; consolidated multi-source data
