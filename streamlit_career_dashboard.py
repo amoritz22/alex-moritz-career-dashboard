@@ -6,7 +6,7 @@ import plotly.express as px
 
 st.set_page_config(page_title="Alexander R. Moritz — Career Dashboard", layout="wide")
 
-st.title("Alexander R. Moritz — Staff Data Engineer")
+st.title("Alexander R. Moritz — Data Engineer")
 st.caption("TS/SCI | AWS • Databricks • Spark • Python • RMF/NIST")
 
 # Load data
